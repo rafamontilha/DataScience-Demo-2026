@@ -1,4 +1,7 @@
 # DataScience-Demo-2026
+
+[![Python application test with Github Actions](https://github.com/rafamontilha/DataScience-Demo-2026/actions/workflows/main.yml/badge.svg)](https://github.com/rafamontilha/DataScience-Demo-2026/actions/workflows/main.yml)
+
 Projeto para o curso de DataOps, DevOps e MLOps
 
 O exemplo serviu de base para entender o colab. 
